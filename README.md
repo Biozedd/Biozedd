@@ -11,6 +11,7 @@
 - 🎮 **Unity Developer** – C# for game mechanics and tools  
 - 🗄️ **Backend & DB** – Node.js, PHP, Python, SQLite, MySQL  
 - 🧠 **Polyglot** – C#, Lua, Luau, Java, JS, PHP, HTML5, CSS3, Python, SQL
+- 📍 From Neyshabur, Iran 🇮🇷
    
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=BARDIA-YT&label=Profile+Views&color=7B2EDA&style=flat-square" />
