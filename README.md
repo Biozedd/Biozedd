@@ -7,7 +7,7 @@
 ## 🧑‍💻 About Me
 
 - 🔧 **Senior Lua & Luau Developer** – experienced in game scripting, Roblox, and embeddable systems  
-- 🌐 **Networking Developer** – low‑level protocols, sockets, and multiplayer architecture  
+- 🌐 **Networking Developer** – low‑level protocols, sockets, tunnelling, and multiplayer architecture  
 - 🎮 **Unity Developer** – C# for game mechanics and tools  
 - 🗄️ **Backend & DB** – Node.js, PHP, Python, SQLite, MySQL  
 - 🧠 **Polyglot** – C#, Lua, Luau, Java, JS, PHP, HTML5, CSS3, Python, SQL  
