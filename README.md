@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=7B2EDA&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Bardiya;Senior+Lua+%26+Networking+Developer;Game+%7C+Backend+%7C+Systems" />
-</div>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=7B2EDA&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Bardiya;Senior+Lua+%26+Networking+Developer;Full‑Stack+Web+Developer;Game+%7C+Backend+%7C+Systems&color=7B2EDA&color=7B2EDA&color=0078D4&color=7B2EDA&multiline=true" />
+</div> 
 
 ---
 
@@ -10,7 +10,11 @@
 - 🌐 **Networking Developer** – low‑level protocols, sockets, tunnelling, and multiplayer architecture  
 - 🎮 **Unity Developer** – C# for game mechanics and tools  
 - 🗄️ **Backend & DB** – Node.js, PHP, Python, SQLite, MySQL  
-- 🧠 **Polyglot** – C#, Lua, Luau, Java, JS, PHP, HTML5, CSS3, Python, SQL  
+- 🧠 **Polyglot** – C#, Lua, Luau, Java, JS, PHP, HTML5, CSS3, Python, SQL
+   
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=BARDIA-YT&label=Profile+Views&color=7B2EDA&style=flat-square" />
+</div>
 
 ---
 
@@ -65,6 +69,4 @@
 - 💬 Discord: Bardiya_zk
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=BARDIA-YT&label=Profile+Views&color=7B2EDA&style=flat-square" />
-</div>
+
