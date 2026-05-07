@@ -66,7 +66,7 @@
 
 ## 📫 Contact
 
-- 📧 Gmail: BardiyaYazaker2@gmail.com  
+- 📧 Gmail: Bardiyazaker2@gmail.com  
 - 💬 Discord: Bardiya_zk
 ---
 
