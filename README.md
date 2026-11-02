@@ -41,7 +41,7 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-
+![Maven](https://camo.githubusercontent.com/febea57e27e9e082d838240aa6829e18bb87068a141fd4e0406cd088328919be/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f626c656e6465722d2532334635373932412e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d626c656e646572266c6f676f436f6c6f723d7768697465)
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
