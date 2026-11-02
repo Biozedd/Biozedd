@@ -5,7 +5,7 @@
 ---
 
 ## 🧑‍💻 About Me
-
+- 🖌 **Experienced 3D artist** -- Character modeling ,Character animation and real time physics
 - 🔧 **Senior Lua & Luau Developer** – experienced in game scripting, Roblox, and embeddable systems  
 - 🌐 **Networking Developer** – low‑level protocols, sockets, tunnelling, and multiplayer architecture  
 - 🎮 **Unity Developer** – C# for game mechanics and tools  
